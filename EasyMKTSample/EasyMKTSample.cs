@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EasyMKTSample
 {
-    class Program
+    class EasyMKTSample
     {
         static void Main(string[] args)
         {
